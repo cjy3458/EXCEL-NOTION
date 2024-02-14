@@ -1,0 +1,5 @@
+.env
+node_modules/
+지원자.json
+play.sh
+/python/re2.xlsx
